@@ -19,7 +19,7 @@ public class Contador {
 		}
 	}
 	
-	// Define the ParametrosInvalidosException class
+	// Define a classe ParametrosInvalidosException
 	static class ParametrosInvalidosException extends Exception {
 		public ParametrosInvalidosException(String message) {
 			super(message);
